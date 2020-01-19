@@ -1,7 +1,6 @@
 .gitignore
 modules/
 patch/
-lICENSE
 README.md
 *.zip
 Image.gz
